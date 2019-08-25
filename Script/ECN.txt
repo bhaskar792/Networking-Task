@@ -1,0 +1,42 @@
+1)www.fujitsu.com ,49.44.136.80, YES
+
+2)www.google.com ,172.217.160.164 NO
+
+3)www.apple.com ,23.15.152.48 NO
+  www.apple.com ,104.85.101.111 YES
+
+4)www.cisco.com ,23.9.68.134 NO
+
+5)www.juniper.net ,23.15.103.30, NO
+
+6)www.avaya.com ,23.9.74.149, NO
+
+7)www.netgear.com ,13.224.21.126, NO
+
+8)www.tp-link.com ,23.9.70.215, NO
+
+9)www.dlink.com ,104.20.30.84, NO
+
+10)www.belkin.com ,54.240.188.71, NO
+
+11)www.zyxcel.com ,209.15.13.134, NO
+
+12)www.ui.com ,52.89.237.75, NO
+
+13)www.arris.com ,128.136.141.21, NO
+
+14)www.synology.com ,99.86.47.82, NO
+
+15)www.qnap.com ,99.86.27.62, NO
+
+16)www.draytek.com ,104.25.242.31, NO
+
+17)www.tenda.com ,177.154.143.250, NO
+
+18)www.netcom.com ,23.185.0.2, NO
+
+19)www.sierrawireless.com ,69.10.131.102, NO
+
+20)www.zte.com ,52.79.212.193, NO
+
+
