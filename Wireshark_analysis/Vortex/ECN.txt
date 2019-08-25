@@ -1,0 +1,3 @@
+website is not ECN enabled.
+In the IP header last two bits are 00.
+In the recieved packet SYN and ACK flag are set.
