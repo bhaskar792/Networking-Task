@@ -1,3 +1,3 @@
 The website is ECN enabled
 Last two bits of IP header are 10 means transport is ECN capable
-In TCP,ECN,SYN and ACK flags are set
+In TCP,ECE,SYN and ACK flags are set
